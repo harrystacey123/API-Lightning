@@ -1,1 +1,31 @@
-/* happy stylin */
+.top {
+    background-color: #002a6d;
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align: center;
+    top: 0;
+    padding: 4vh 0vh;
+    margin: 0;
+    color: white;
+    border: 0;
+}
+
+p {
+    color: #002a6d
+}
+
+.harry {
+    color: white;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+button {
+    height: 5vh;
+    min-width: 15vw;
+    background-color: #002a6d;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    border: 2px white solid;
+    color: white;
+    font-size: 3vh;
+}
