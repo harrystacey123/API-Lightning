@@ -29,3 +29,40 @@ button {
     color: white;
     font-size: 3vh;
 }
+
+.next {
+    right: 0;
+    top: 15%;
+    position: fixed;
+    margin-right: 5vw;
+    font-family: 'Allerta Stencil', sans-serif;
+    color: #002a6d;
+    border: 2px #002a6d solid;
+    padding: 2vw;
+}
+
+.twitter-share-button {
+    padding: 3vh 3vh 3vh 2vh;
+}
+
+.impressed {
+    font-family: sans-serif;
+    color: #002a6d;
+    margin: 4vh 3vw;
+}
+
+.twitter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
